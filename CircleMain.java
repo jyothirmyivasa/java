@@ -8,7 +8,7 @@ class Circlearea{
         return (22/7.0)*r*r;
     }
 }
-    class Main{
+    class CircleMain{
     public static void main(String args[]){
         Circlearea ca=new Circlearea();
         Scanner sc=new Scanner(System.in);
