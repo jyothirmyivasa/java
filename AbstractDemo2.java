@@ -14,7 +14,7 @@ class Derived extends Base{
 	System.out.println("Derived fun is invoked");
 	}
 }
-class AbstractDemo{
+class AbstractDemo2{
 	public static void main(String args[]){
 		Derived d=new Derived();
 		d.fun();
